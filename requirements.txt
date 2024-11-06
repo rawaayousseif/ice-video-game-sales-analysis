@@ -1,1 +1,6 @@
-pandas\nnumpy\nmatplotlib\nseaborn\nscipy\njupyter
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+jupyter
